@@ -18,7 +18,7 @@ Para este ejercicio he trabajado con datos históricos descargados desde **Yahoo
  **Periodo analizado:** septiembre 2019 a noviembre 2025  
 Este intervalo incluye eventos relevantes como COVID-19, inflación global, conflictos geopolíticos y el crecimiento del sector IA.
 
-Los datos están en formato **largo**, donde cada fila representa un día y un ticker.
+Los datos están en formato **large**, donde cada fila representa un día y un ticker.
 
 ---
 
